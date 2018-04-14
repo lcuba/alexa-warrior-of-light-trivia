@@ -1,16 +1,16 @@
 {
-  "skillManifest": {
+  "manifest": {
     "publishingInformation": {
       "locales": {
         "en-US": {
-          "summary": "Sample Short Description",
+          "summary": "A trivia game centered around the Final Fantasy series of games",
           "examplePhrases": [
-            "Alexa open reindeer trivia",
-            "Alexa tell reindeer trivia to start a game",
-            "Alexa tell reindeer trivia I want to play"
+            "Alexa open Warrior of Light Trivia",
+            "Alexa tell Warrior of Light Trivia to start a game",
+            "Alexa tell Warrior of Light Trivia I want to play"
           ],
-          "name": "reindeer trivia",
-          "description": "Sample Full Description"
+          "name": "Warrior of Light Trivia",
+          "description": "A trivia game centered around the Final Fantasy series of games"
         }
       },
       "isAvailableWorldwide": true,

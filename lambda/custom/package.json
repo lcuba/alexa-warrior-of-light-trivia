@@ -1,5 +1,5 @@
 {
-  "name": "skill-sample-js-trivia",
+  "name": "warrior-of-light-trivia",
   "version": "1.0.0",
   "description": "A simple trivia skill i18n version.",
   "main": "index.js",
@@ -11,7 +11,7 @@
     "skill",
     "trivia"
   ],
-  "author": "Amazon.com",
+  "author": "lcuba",
   "license": "Apache-2.0",
   "dependencies": {
     "alexa-sdk": "^1.0.12"
